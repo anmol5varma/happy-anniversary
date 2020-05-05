@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thank_you_mr_patil/precache-manifest.125673a588b311736cd62f2c3152eb8b.js"
+  "/happy_anniversary/precache-manifest.81f39f886f9cde70fd6a1b94b9dcb731.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/thank_you_mr_patil/index.html", {
+workbox.routing.registerNavigationRoute("/happy_anniversary/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
