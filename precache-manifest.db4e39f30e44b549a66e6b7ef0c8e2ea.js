@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/happy_anniversary/static/media/3.8bbdeb71.jpg"
   },
   {
-    "revision": "40160b3230ba72aabe11",
-    "url": "/happy_anniversary/static/css/main.e059349c.chunk.css"
+    "revision": "9830625f339f1112b444",
+    "url": "/happy_anniversary/static/css/main.ccadc6ae.chunk.css"
   },
   {
-    "revision": "56fc8c50d5c6c48b1275",
-    "url": "/happy_anniversary/static/js/1.56fc8c50.chunk.js"
+    "revision": "4ad756683673bcb3be35",
+    "url": "/happy_anniversary/static/js/1.4ad75668.chunk.js"
   },
   {
     "revision": "c06cc3a2e78974c1d801",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/happy_anniversary/static/media/2.12028a9d.jpg"
   },
   {
-    "revision": "40160b3230ba72aabe11",
-    "url": "/happy_anniversary/static/js/main.40160b32.chunk.js"
+    "revision": "9830625f339f1112b444",
+    "url": "/happy_anniversary/static/js/main.9830625f.chunk.js"
   },
   {
     "revision": "7b156a779e8325cbac7d631683e83f7e",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/happy_anniversary/static/media/9.98e01ee9.jpg"
   },
   {
-    "revision": "d12682ba73190ba8f38ca3135dca5f93",
+    "revision": "9a65a32ea9ce09bdfee123251a7b4d07",
     "url": "/happy_anniversary/index.html"
   }
 ];
