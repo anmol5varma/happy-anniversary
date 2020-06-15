@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/happy-anniversary/precache-manifest.bef0ea9aac2e8b7a1dc349eec66fef0c.js"
+  "/happy-bday-basu/precache-manifest.78c90ea54e0392568644140691531861.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/happy-anniversary/index.html", {
+workbox.routing.registerNavigationRoute("/happy-bday-basu/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
